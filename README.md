@@ -19,9 +19,9 @@ More detailed controls and instructions can be found in the rules section of the
 
 ## Screenshots
 
-<p>
-<img src="images/001.png" width="425" />
-<img src="images/002.png" width="425" />
+<p align="center">
+<img src="images/001.png" width="48%" padding="30" />
+<img src="images/002.png" width="48%" />
 </p>
 
 ## Built With
