@@ -20,7 +20,7 @@ More detailed controls and instructions can be found in the rules section of the
 ## Screenshots
 
 <p align="center">
-<img src="images/001.png" width="48%" padding="30" />
+<img src="images/001.png" width="48%" />
 <img src="images/002.png" width="48%" />
 </p>
 
