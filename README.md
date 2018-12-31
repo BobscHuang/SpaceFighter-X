@@ -17,6 +17,12 @@ Like previously mentioned, the entire game is focused around the mouse movements
 
 More detailed controls and instructions can be found in the rules section of the game itself.
 
+## Screenshots
+
+![main menu](images/001.png)
+<br>
+![in game](images/002.png)
+
 ## Built With
 
 * Python
