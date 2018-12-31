@@ -9,7 +9,7 @@ A simple space shooter game made using python. As the player, you are in charge 
 
 ## Installing
 
-Simply open "Space Fighter Game.py" through the python 3 and run.
+Simply open "Space Fighter Game.py" through python 3 and run.
 
 ## Controls
 
