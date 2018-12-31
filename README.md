@@ -19,9 +19,10 @@ More detailed controls and instructions can be found in the rules section of the
 
 ## Screenshots
 
-![main menu](images/001.png)
-<br>
-![in game](images/002.png)
+<p>
+<img src="images/001.png" width="425" />
+<img src="images/002.png" width="425" />
+</p>
 
 ## Built With
 
